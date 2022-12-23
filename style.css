@@ -11,7 +11,7 @@ body{
 .landing-section{
     width: 100%;
     height: 100vh;
-    background: rgb(198, 198, 223);
+    background: rgba(216, 216, 255, 0.808);
     display: flex;
     justify-content: center;
     align-items: center;
